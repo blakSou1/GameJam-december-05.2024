@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Player/HitPlayer.cs.meta
+guid: d45c4f4df10a90649b40eeba3c1967cf
+========
+guid: 1bc90ee2f9e333a488b1d18ee8a965fd
+>>>>>>>> parent of a840da9 (Revert "..."):Assets/AurynSky/WinterArena/Scripts/ChestDemo.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
