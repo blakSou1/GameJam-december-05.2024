@@ -9,8 +9,8 @@ public class Bullets : MonoBehaviour
     {
         if (!collision.gameObject.CompareTag("Player"))
         {
-            grap.GetComponent<GrapplingHook>().PlayerStart(transform.position);
-            GetComponent<Rigidbody>().velocity = Vector3.zero;
+            //grap.GetComponent<GrapplingHook>().PlayerStart(transform.position);
+            //GetComponent<Rigidbody>().velocity = Vector3.zero;
         }
     }
 }
